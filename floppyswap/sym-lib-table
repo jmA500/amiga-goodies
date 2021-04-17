@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name floppyswap-rescue)(type Legacy)(uri ${KIPRJMOD}/floppyswap-rescue.lib)(options "")(descr ""))
+)
